@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view />
-    <p>de1m1o</p>
+    <p>哈哈哈哈哈哈哈</p>
   </div>
 </template>
 
